@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite the released software version."
+type: software
+title: "Nonlinear Diffusion Interactive Model / Learning App"
+version: "2.3"
+date-released: 2026-10-01
+license: MIT
+authors:
+  - family-names: Kang
+    given-names: Wook
+abstract: >-
+  A Jupyter-based research software prototype for forward and inverse nonlinear
+  diffusion modeling in 1D, 2D, and 3D. It includes isotropic FDM/FVM/FEM
+  backends, an axis-aligned diagonal-anisotropic FVM backend, configurable
+  initial and boundary conditions, parameter estimation, local sensitivity and
+  practical-identifiability diagnostics, and reproducibility-oriented run
+  save/load records.
+keywords:
+  - nonlinear diffusion
+  - finite difference method
+  - finite volume method
+  - finite element method
+  - inverse modeling
+  - parameter estimation
+  - anisotropic diffusion
+  - Jupyter
+  - reproducible research
