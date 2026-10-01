@@ -14,7 +14,7 @@ $$
 with isotropic diffusion or axis-aligned diagonal anisotropy,
 
 $$
-\mathbf{D}(u)=\mathrm{diag}\!\left(D_x(u),D_y(u),D_z(u)\right).
+\mathbf{D}(u)=\mathrm{diag}\left(D_x(u),D_y(u),D_z(u)\right).
 $$
 
 The software is organized around a learning-and-modeling workflow:
