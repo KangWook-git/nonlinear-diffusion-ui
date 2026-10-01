@@ -1,4 +1,5 @@
 # Nonlinear Diffusion Interactive Model / Learning App — v2.3
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23083461.svg)](https://doi.org/10.5281/zenodo.23083461)
 
 A reproducible Jupyter-based research software prototype for exploring nonlinear diffusion in 1D, 2D, and 3D, with forward and inverse workflows, multiple discretization backends, configurable constitutive laws and boundary conditions, and run-record export/reload.
 
